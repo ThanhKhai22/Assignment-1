@@ -20,11 +20,12 @@ Hoán đổi giá trị của 2 biến a và b mà không sử dụng biến t�
 *a = *a + *b;   // Bước 1: Tính tổng của *a và *b, gán lại cho *a
 *b = *a - *b;   // Bước 2: Lấy tổng *a - *b, gán lại cho *b (lúc này *b có giá trị ban đầu của *a)
 *a = *a - *b;   // Bước 3: Lấy tổng mới trừ đi *b, gán lại cho *a (lúc này *a có giá trị ban đầu của *b)
-
+```
 với a = 5, b = 10:
 a = 5 + 10 =15
 b = 15 - 10 = 5
 a = 15 - 5 = 10
+
 
 # Exercise 3: 
 ## Answer:
