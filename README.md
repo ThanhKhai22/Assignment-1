@@ -16,8 +16,6 @@
 # Exercise 2: 
 ## Answer: 
 Hoán đổi giá trị của 2 biến a và b mà không sử dụng biến tạm bằng cách: 
-```markdown
-# Ví Dụ Code
 
 `*a = *a + *b;   // Bước 1: Tính tổng của *a và *b, gán lại cho *a
 *b = *a - *b;   // Bước 2: Lấy tổng *a - *b, gán lại cho *b (lúc này *b có giá trị ban đầu của *a)
