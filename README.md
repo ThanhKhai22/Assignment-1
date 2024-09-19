@@ -25,3 +25,13 @@ với a = 5, b = 10:
 a = 5 + 10 =15
 b = 15 - 10 = 5
 a = 15 - 5 = 10
+
+# Exercise 3: 
+## Answer:
+Thao tác cơ bản với file:
+- Mở file -> Ghi dữ liệu vào file -> Đóng file
+- Mở file -> Đọc dữ liệu từ file -> Đóng file
+
+# Exercise 4: 
+## Answer:
+Xác định đúng kiểu dữ liệu và giới hạn của từng biến
